@@ -1,0 +1,814 @@
+Device ID:VB7GRD15
+Enter P for primary device S for secondary device: Secondary Device
+Battery Percentage: 80.00*
+---------------------------------------------
+TEST ID: 
+LDL: 1 | CRE: 2 | HB: 3 | ALB: 4 | TGL: 5 | 
+CHOL: 6 | UA: 7 | TP: 8 | GLU: 9 | TBIL: 10 | 
+---------------------------------------------
+Enter Test ID to perform: 10
+Selected Test: TBIL
+Enter total available patients: 17
+Enter Patient 1 Sample ID: S193
+Enter Patient 2 Sample ID: S194
+Enter Patient 3 Sample ID: S195
+Enter Patient 4 Sample ID: S196
+Enter Patient 5 Sample ID: S197
+Enter Patient 6 Sample ID: S198
+Enter Patient 7 Sample ID: S199
+Enter Patient 8 Sample ID: S200
+Enter Patient 9 Sample ID: S201
+Enter Patient 10 Sample ID: S202
+Enter Patient 11 Sample ID: S204
+Enter Patient 12 Sample ID: S205
+Enter Patient 13 Sample ID: S208
+Enter Patient 14 Sample ID: S209
+Enter Patient 15 Sample ID: S210
+Enter Patient 16 Sample ID: S211
+Enter Patient 17 Sample ID: S212
+DONE!
+Standard Device Concentrations
+Patient 1 Concentration: 0.28
+Patient 2 Concentration: 1.98
+Patient 3 Concentration: 0.29
+Patient 4 Concentration: 1.04
+Patient 5 Concentration: 0.53
+Patient 6 Concentration: 0.76
+Patient 7 Concentration: 0.52
+Patient 8 Concentration: 0.48
+Patient 9 Concentration: 0.71
+Patient 10 Concentration: 0.32
+Patient 11 Concentration: 0.66
+Patient 12 Concentration: 0.36
+Patient 13 Concentration: 0.92
+Patient 14 Concentration: 0.51
+Patient 15 Concentration: 0.36
+Patient 16 Concentration: 1.59
+Patient 17 Concentration: 0.69
+DONE!
+Initializing...[DONE]
+Incubating...[DONE]
+>>Cycle 1 begin<<
+>>Base Reading
+>>Selected Test: TBIL
+Take 1000 uL R1 + 50 ul Sample(S193) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10868,38.43
+10877,38.43
+10873,38.37
+10863,38.37
+10863,38.31
+10872,38.37
+10879,38.31
+10887,38.31
+10885,38.31
+10885,38.25
+10885,38.25
+10894,38.18
+10887,38.18
+10888,38.18
+10879,38.18
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 1 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S194) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10993,36.81
+10982,36.87
+10969,36.87
+10960,36.87
+10938,36.87
+10965,36.87
+10924,36.87
+10946,36.87
+10947,36.87
+10939,36.93
+10951,36.87
+10953,36.93
+10957,36.93
+10955,37.00
+10955,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 2 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S195) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10989,36.93
+11017,36.93
+11004,36.93
+11018,36.93
+10995,36.93
+10943,36.93
+10912,36.93
+10947,36.93
+10971,36.93
+10961,36.93
+10947,36.87
+10949,36.87
+10959,36.93
+10947,36.87
+10937,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 3 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S196) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+11006,36.93
+10996,36.93
+10989,36.93
+10993,36.93
+10990,36.93
+10981,36.87
+10991,36.87
+10991,36.93
+10989,36.93
+10990,36.93
+10985,36.87
+10994,36.93
+10987,36.93
+10984,36.93
+10994,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 4 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S197) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10796,36.93
+10874,36.93
+10957,36.93
+10991,36.93
+10960,36.93
+10993,36.93
+10987,36.93
+11016,36.93
+11001,36.93
+10997,36.93
+11001,36.87
+10997,36.93
+10808,36.93
+10950,36.93
+10997,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 5 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S198) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+11016,36.93
+11039,36.93
+11040,36.87
+11000,36.93
+11069,36.93
+11057,36.93
+11056,36.93
+11067,36.87
+11070,36.87
+11071,36.87
+11069,36.87
+11047,36.87
+11071,36.87
+11057,36.87
+11043,36.87
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 6 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S199) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+11049,36.93
+11064,36.93
+11063,36.93
+11071,36.93
+11059,36.93
+11029,36.87
+11031,36.93
+11056,36.87
+11053,36.87
+11059,36.87
+11061,36.87
+11061,36.87
+11069,36.87
+11066,36.87
+11056,36.87
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 7 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S200) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+11075,37.12
+11085,37.06
+11086,37.06
+11078,37.06
+11089,37.06
+11095,37.00
+11096,37.00
+11094,37.00
+11091,37.00
+11094,37.00
+11090,37.00
+11099,37.00
+11092,37.00
+11091,36.93
+11087,37.00
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 8 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S201) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+11119,37.25
+11119,37.18
+11117,37.18
+11110,37.18
+11107,37.18
+11089,37.18
+11081,37.18
+11089,37.18
+11104,37.18
+11105,37.18
+11101,37.12
+11115,37.12
+11131,37.12
+11126,37.12
+11100,37.12
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 9 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S202) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+11049,36.93
+11053,36.87
+11049,36.87
+11049,36.87
+11055,36.87
+11063,36.87
+11059,36.87
+11056,36.87
+11062,36.87
+11057,36.87
+11058,36.87
+11059,36.81
+11055,36.87
+11062,36.81
+11063,36.87
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 10 of Incubator and press Enter: [DONE]
+Base Completed!
+>>Test Reading
+>>Selected Test: TBIL
+Remove cuvette from slot 1 of incubator, add 20 ul activator., mix and reinsert into slot 1 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 2 of incubator, add 20 ul activator., mix and reinsert into slot 2 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 3 of incubator, add 20 ul activator., mix and reinsert into slot 3 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 4 of incubator, add 20 ul activator., mix and reinsert into slot 4 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 5 of incubator, add 20 ul activator., mix and reinsert into slot 5 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 6 of incubator, add 20 ul activator., mix and reinsert into slot 6 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 7 of incubator, add 20 ul activator., mix and reinsert into slot 7 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 8 of incubator, add 20 ul activator., mix and reinsert into slot 8 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 9 of incubator, add 20 ul activator., mix and reinsert into slot 9 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 10 of incubator, add 20 ul activator., mix and reinsert into slot 10 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 1 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10549,37.00
+10521,36.93
+10521,36.93
+10543,36.93
+10543,36.93
+10537,36.93
+10534,36.93
+10537,36.93
+10531,36.87
+10534,36.93
+10532,36.93
+10507,36.93
+10521,36.93
+10528,36.93
+10531,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 2 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10017,37.00
+10012,37.00
+9994,37.00
+9995,37.00
+10004,37.00
+9987,37.00
+9979,37.00
+10005,37.00
+9981,37.00
+9994,37.00
+10022,37.00
+10013,37.00
+10027,37.00
+10029,37.00
+9998,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 3 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10655,36.93
+10658,36.93
+10637,36.93
+10644,36.93
+10633,36.93
+10575,36.93
+10601,36.93
+10604,36.93
+10613,36.93
+10625,36.93
+10619,37.00
+10624,37.00
+10621,37.00
+10622,37.00
+10635,37.00
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 4 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+9973,37.00
+10000,36.93
+9979,37.00
+9967,37.00
+9987,37.00
+9941,37.00
+9973,36.93
+9963,36.93
+9981,36.93
+9950,36.93
+9968,36.93
+9963,36.93
+9969,36.93
+9973,36.93
+9969,36.87
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 5 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10376,37.00
+10359,37.00
+10310,37.00
+10392,37.00
+10395,37.00
+10384,37.00
+10395,37.00
+10393,37.00
+10408,37.00
+10404,37.00
+10412,37.00
+10413,37.00
+10429,37.00
+10391,37.00
+10403,37.00
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 6 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10227,36.93
+10225,36.87
+10223,36.93
+10272,36.93
+10299,36.93
+10266,36.93
+10263,36.87
+10246,36.93
+10245,36.93
+10243,36.87
+10230,36.93
+10256,36.93
+10247,36.93
+10247,36.93
+10243,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 7 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10445,37.06
+10443,37.06
+10441,37.06
+10461,37.06
+10482,37.00
+10495,37.00
+10486,37.00
+10471,37.00
+10448,37.00
+10449,37.00
+10471,37.00
+10471,37.00
+10453,37.00
+10458,37.00
+10459,37.00
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 8 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10572,36.93
+10576,36.93
+10573,36.93
+10571,36.93
+10569,36.93
+10527,36.93
+10539,36.93
+10560,36.93
+10570,36.93
+10574,36.93
+10560,36.93
+10552,36.93
+10561,36.93
+10558,36.87
+10559,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 9 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10345,37.12
+10334,37.06
+10335,37.06
+10341,37.06
+10337,37.12
+10336,37.06
+10335,37.06
+10360,37.06
+10352,37.06
+10337,37.06
+10341,37.06
+10353,37.06
+10357,37.06
+10345,37.06
+10349,37.06
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 10 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10678,36.93
+10677,36.93
+10665,36.93
+10656,36.93
+10669,36.93
+10669,36.87
+10681,36.93
+10673,36.93
+10677,36.93
+10679,36.87
+10675,36.87
+10685,36.87
+10688,36.93
+10685,36.87
+10678,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+>>Cycle 1 end<<
+>>Cycle 2 begin<<
+>>Base Reading
+>>Selected Test: TBIL
+Take 1000 uL R1 + 50 ul Sample(S204) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10985,36.93
+10993,36.87
+10992,36.87
+10996,36.87
+11001,36.87
+11006,36.87
+11003,36.87
+10999,36.87
+11006,36.87
+11021,36.87
+11019,36.87
+11036,36.87
+11043,36.93
+11035,36.87
+11042,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 1 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S205) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10635,37.12
+10629,37.06
+10615,37.06
+10584,37.12
+10546,37.06
+10571,37.06
+10609,37.06
+10623,37.06
+10619,37.00
+10619,37.06
+10624,37.00
+10619,37.00
+10616,36.93
+10617,37.00
+10616,37.00
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 2 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S208) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10776,37.12
+11046,37.12
+11020,37.12
+11033,37.12
+11045,37.06
+11039,37.06
+11059,37.06
+11076,37.06
+11077,37.06
+11057,37.00
+11077,37.00
+11067,37.00
+11043,37.00
+11057,36.93
+11041,37.00
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 3 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S209) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10957,37.18
+10988,37.12
+10991,37.12
+11005,37.12
+11020,37.12
+10999,37.12
+10936,37.12
+10995,37.12
+10953,37.12
+10918,37.12
+10983,37.12
+10972,37.06
+10957,37.06
+11021,37.06
+10964,37.06
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 4 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S210) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10786,37.18
+10811,37.18
+10826,37.18
+10829,37.18
+10803,37.12
+10829,37.12
+10817,37.12
+10818,37.12
+10820,37.12
+10814,37.12
+10821,37.12
+10835,37.12
+10819,37.12
+10823,37.12
+10635,37.06
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 5 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S211) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+10917,37.06
+10913,37.06
+10904,37.06
+10904,37.06
+10909,37.06
+10889,37.00
+10901,37.06
+10919,37.00
+10925,37.00
+10932,37.00
+10934,37.00
+10932,37.00
+10928,37.00
+10924,37.00
+10917,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 6 of Incubator and press Enter: [DONE]
+Take 1000 uL R1 + 50 ul Sample(S212) in the cuvette, mix and insert into the Device: [DONE]
+Close Cap:[DONE]
+Collecting TBIL base data...
+11019,37.12
+11040,37.12
+11023,37.06
+11039,37.06
+11035,37.12
+11044,37.12
+11036,37.06
+11030,37.06
+11050,37.06
+11037,37.06
+11047,37.06
+11050,37.06
+11054,37.06
+11059,37.00
+11049,37.00
+$
+Remove Cuvette:[DONE]
+Close Cap:[DONE]
+Insert the cuvette in Slot 7 of Incubator and press Enter: [DONE]
+Base Completed!
+>>Test Reading
+>>Selected Test: TBIL
+Remove cuvette from slot 1 of incubator, add 20 ul activator., mix and reinsert into slot 1 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 2 of incubator, add 20 ul activator., mix and reinsert into slot 2 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 3 of incubator, add 20 ul activator., mix and reinsert into slot 3 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 4 of incubator, add 20 ul activator., mix and reinsert into slot 4 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 5 of incubator, add 20 ul activator., mix and reinsert into slot 5 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 6 of incubator, add 20 ul activator., mix and reinsert into slot 6 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 7 of incubator, add 20 ul activator., mix and reinsert into slot 7 of Incubator and press Enter: [DONE]
+Remove cuvette from slot 1 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10470,36.93
+10453,36.93
+10407,36.93
+10421,36.93
+10435,36.93
+10437,36.93
+10419,36.93
+10406,36.93
+10411,36.93
+10418,36.93
+10417,36.93
+10427,36.93
+10435,36.93
+10428,36.93
+10434,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 2 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10133,37.00
+10151,37.06
+10139,37.00
+10139,37.06
+10164,37.06
+10165,37.06
+10141,37.06
+10153,37.06
+10168,37.06
+10161,37.06
+10147,37.06
+10157,37.06
+10175,37.06
+10185,37.06
+10193,37.06
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 3 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10126,36.93
+10175,36.93
+10161,36.93
+10183,36.93
+10193,36.87
+10174,36.93
+10158,36.93
+10189,36.93
+10173,36.93
+10110,36.93
+10164,36.93
+10174,36.93
+10211,36.87
+10177,36.93
+10185,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 4 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10454,37.06
+10467,37.06
+10500,37.06
+10411,37.06
+10482,37.06
+10461,37.06
+10472,37.06
+10489,37.06
+10353,37.06
+10447,37.06
+10427,37.00
+10449,37.00
+10410,37.06
+10497,37.00
+10432,37.00
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 5 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10369,36.93
+10368,36.93
+10359,36.93
+10378,36.87
+10359,36.93
+10369,36.93
+10369,36.93
+10367,36.87
+10371,36.93
+10369,36.87
+10357,36.87
+10364,36.93
+10364,36.87
+10369,36.93
+10371,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 6 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+9371,37.12
+9364,37.12
+9379,37.12
+9374,37.12
+9371,37.12
+9377,37.06
+9382,37.12
+9390,37.12
+9389,37.06
+9394,37.06
+9389,37.06
+9393,37.06
+9389,37.12
+9394,37.06
+9398,37.06
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+Remove cuvette from slot 7 and insert into the Device: [Done]
+Close Cap:[DONE]
+Collecting TBIL test data...
+10361,36.93
+10345,36.93
+10355,36.93
+10331,36.87
+10313,36.93
+10329,36.93
+10336,36.93
+10338,36.93
+10348,36.93
+10339,36.87
+10335,36.87
+10347,36.87
+10337,36.93
+10355,36.93
+10345,36.93
+$
+Remove Cuvette:[DONE]
+Close Cap:[Done]
+>>Cycle 2 end<<
+Test Completed!
+Test Time: 42: 46 mins...
